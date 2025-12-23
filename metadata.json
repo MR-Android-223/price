@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Balance & Zen - Debt Manager & AI Assistant",
+  "description": "A sophisticated debt management system with Arabic RTL support, featuring an integrated AI meditation assistant, image generation, and TTS capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
